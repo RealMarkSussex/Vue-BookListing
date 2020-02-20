@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import BookItem from './BookItem.vue'
+import BookItem from './BookItem.vue';
 export default {
     components: {
         BookItem
